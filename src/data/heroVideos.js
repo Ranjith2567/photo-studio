@@ -1,0 +1,51 @@
+// Hero video sequence.
+export const HERO_VIDEOS = [
+  {
+    id: 1,
+    src: '/assets/videos/hero-video-01.mp4',
+    poster: '/assets/images/gallery/wedding/gallery-wedding-01.jpg',
+    eyebrow: 'Wedding',
+    title: 'Every Vow,\nFramed Right.',
+    duration: 6000,
+  },
+  {
+    id: 2,
+    src: '/assets/videos/hero-video-02.mp4',
+    poster: '/assets/images/gallery/wedding/gallery-wedding-02.jpg',
+    eyebrow: 'Wedding',
+    title: 'Poses That\nFeel Effortless.',
+    duration: 6000,
+  },
+  {
+    id: 3,
+    src: '/assets/videos/hero-video-03.mp4',
+    poster: '/assets/images/gallery/wedding/gallery-wedding-03.jpg',
+    eyebrow: 'Wedding',
+    title: 'Every Detail,\nWorth Framing.',
+    duration: 6000,
+  },
+  {
+    id: 4,
+    src: '/assets/videos/hero-video-04.mp4',
+    poster: '/assets/images/gallery/wedding/gallery-wedding-04.jpg',
+    eyebrow: 'Wedding',
+    title: 'Traditions,\nTold in Motion.',
+    duration: 6000,
+  },
+  {
+    id: 5,
+    src: '/assets/videos/hero-video-05.mp4',
+    poster: '/assets/images/gallery/product/gallery-product-01.jpg',
+    eyebrow: 'Product',
+    title: 'Precision,\nOn Every Edge.',
+    duration: 6000,
+  },
+  {
+    id: 6,
+    src: '/assets/videos/hero-video-06.mp4',
+    poster: '/assets/images/gallery/fashion/gallery-fashion-01.jpg',
+    eyebrow: 'Fashion',
+    title: 'Light That\nFlatters Truth.',
+    duration: 6000,
+  },
+];
